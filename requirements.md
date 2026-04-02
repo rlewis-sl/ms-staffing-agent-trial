@@ -3,11 +3,11 @@
 ## Data Access
 
 - Consultant profiles in SharePoint (Word format)
-- Staff metadata (Kimble report)
-- Staff availability (Kimble report)
-- Consultant leave (Kimble report)
-- Long term absence assignments (Kimble report)
-- Consultant skills (Kimble report)
+- Staff metadata ("SL Staff" Kimble report)
+- Staff availability ("Activity Assignment" Kimble report)
+- Consultant leave ("Forecast Time Entries - Leave" Kimble report)
+- Long term absence assignments ("Long-Term Unavailable Assignments Report" Kimble report)
+- Consultant skills ("Copy of Skills by Employee" Kimble report)
 - Project Hub descriptions (Confluence pages)
 
 ## Query Types
@@ -67,3 +67,8 @@
 - Restore that chat
 - Which chats have ratings?
 - Find a chat about [topic]
+
+## Monitoring and Evaluation
+
+- Log of user queries and agent responses
+- Method for users to provide feedback on responses

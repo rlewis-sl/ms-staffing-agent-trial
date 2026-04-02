@@ -10,11 +10,11 @@
 
 ## Knowledge
 
-- I added a "Knowledge" item for consultant profiles in SharePoint at https://scottlogic.sharepoint.com/sites/staffing/Shared%20Documents/Consultant%20Profiles/
+- I added a "Knowledge" item for **consultant profiles** in SharePoint at https://scottlogic.sharepoint.com/sites/staffing/Shared%20Documents/Consultant%20Profiles/
   - Selected "Agents can use this knowledge source" ... "At any time" (the default)
   - Did not mark the knowledge source as an "Official source"
 
-- Trying to create a Knowledge connection to Confluence...
+- Trying to create a Knowledge connection to **Confluence**...
   - Click "+ Add knowledge" in the "Knowledge" panel on the agent Overview page/tab (https://copilotstudio.microsoft.com/environments/3a857c21-9821-eb36-8f60-419f0d9bcea2/bots/84b8d012-bc2d-f111-88b5-6045bdfbb6d1/overview?solutionId=5f3f24b8-d629-f111-88b4-6045bdfbb6d1)
   - Switch to "Advanced" connection types
   - Select "Confluence"
@@ -32,6 +32,13 @@
   - I suspect I will eventually want "Only when referenced by topics" but I'm leaving it at the default for now.
   - Note there are other (more complex) possibilities available under a "Select" dropdown for "Agents can use this knowledge source".
   - There is an option to mark the Knowledge item as an "Official Source", which apparently triggers some indicator to the user that the information is official and reliable. I did not choose that option.
+
+- Trying to create a Knowledge connection to **Kimble / Salesforce**
+  - There is a connector available for Salesforce
+  - It has no configuration, so I doubt it gives access to the data we need
+  - But will try it...
+  - "Agents can user this knowledge source" ... "At any time"
+  - Not an "Official source"
     
 
 ### Abandoned Confluence "personal" connection
@@ -54,6 +61,45 @@
     1. scottlogic.atlassian.net
     2. sl-staffing-assistant.atlassian.net
   - I stopped at this point without adding the knowledge source. (I didn't want the connection to have access to my private Confluence pages.)
+
+## Create an Agent Flow to access Salesforce
+
+The Salesforce connector supports many actions, including "ExecuteSoqlQuery".  
+Actions can be added to Agent Flows, and Agent Flows can be made available as Tools in other agents.
+
+Following the steps in the Copilot Studio docs page for [Create an agent flow as a tool](https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-flow-create)
+
+First, create a new Topic for "Staff Availability"...
+- Go to the Topics list for the agent and Click "+ Add topic"
+- Name the topic "Staff Availability"
+- Provide text for "Create a topic to ..." ("Get information about a consultant's project assignments, including start and end dates, and availability for a new project assignment today or at a future date.")
+- Click "Create" button
+- Edit "Describe what the topic does" in the Trigger node. Add example questions the topic can answer.
+- Click "Save" button
+- Click the "+" below the Trigger node and choose to create a new Tool.
+- Under "Basic tools" select "New Agent flow"
+- Select "Publish" to save the flow before making any changes
+- "Your agent flow was published" message comes up. Choose "Go back to agent".
+- The new flow appears in an Action node in the topic.
+- Click "Save" button to finish adding the flow as a tool.
+- Click the "Flows" icon on the vertical menu on the left side of the screen.
+- Open the new agent flow ("Untitled")
+- Go to the Overview panel (select from the top menu)
+- Click the "Edit" button (side panel opens)
+- Give the flow a name ("Get Activity Assignment report data")
+- Add a Description ("Send an SOQL query to get the Activity Assignment report data using the Salesforce connector")
+- Set the "Primary owner" (kept the default "Robert Lewis")
+- Click "Save" button (side panel closes)
+- Go to the Designer panel (select from top menu)
+- For now, not adding any input parameters to "When an agent calls the flow" trigger
+- Click the "+" below the "When an agent calls the flow" trigger
+- In the Add an action dialog, search for "Salesforce".
+- Choose "Queries - SOQL Query (Preview)"
+- Enter a Connection name ("Activity Assignment SOQL query")
+
+TOTALLY WINGING IT FROM HERE, AND USING THE USER AUTH TOKEN EXTRACTED BY manage-sf-session.sh - which could be completely wrong.
+
+
 
 ## Git Integration
 
