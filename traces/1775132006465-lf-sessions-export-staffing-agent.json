@@ -1,0 +1,2486 @@
+[
+    {
+        "id": "bfe4bb3c-4978-40f6-86d7-36cebf197ca8",
+        "userIds": [
+            "gb-7KGtMHC1bGokOKWLjJKxuB4qzFRUxxYUJCROyFcA"
+        ],
+        "countTraces": 5,
+        "sessionDuration": 0.89,
+        "inputCost": "1.3045845",
+        "outputCost": "0",
+        "totalCost": "1.3045845",
+        "totalTokens": 17370,
+        "traceTags": [],
+        "createdAt": "2026-04-02T10:32:48.917Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 5,
+        "comments": []
+    },
+    {
+        "id": "c793cb76-0de5-48a0-93b2-d14745b15526",
+        "userIds": [
+            "MGoeNQ4OYnLP2NcCtcEctS1un_-1eSVz3_IWcAKr5-c"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.007,
+        "inputCost": "0.1601067",
+        "outputCost": "0",
+        "totalCost": "0.1601067",
+        "totalTokens": 4168,
+        "traceTags": [],
+        "createdAt": "2026-04-02T08:39:23.232Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "51304247-12dc-4a83-8c8b-58e1c3324b82",
+        "userIds": [
+            "R5c5S9FgOV-Sqy5GnoSpZN2VnZT3VSwuQgLbJlwyM3U"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.007,
+        "inputCost": "0.4793383",
+        "outputCost": "0",
+        "totalCost": "0.4793383",
+        "totalTokens": 8519,
+        "traceTags": [],
+        "createdAt": "2026-04-02T08:38:29.329Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "9fb9b3f2-c769-4c4b-92da-d159a8e43672",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 63.515,
+        "inputCost": "0.39921985",
+        "outputCost": "0",
+        "totalCost": "0.39921985",
+        "totalTokens": 5527,
+        "traceTags": [],
+        "createdAt": "2026-04-01T17:55:31.314Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "c4b49403-e66f-44f1-84ed-10338d2fe65c",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.206,
+        "inputCost": "0.840112199999",
+        "outputCost": "0",
+        "totalCost": "0.840112199999",
+        "totalTokens": 16505,
+        "traceTags": [],
+        "createdAt": "2026-04-01T17:52:06.251Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "9dae1f7c-dedd-4917-b2ee-9f7886109a94",
+        "userIds": [
+            "MGoeNQ4OYnLP2NcCtcEctS1un_-1eSVz3_IWcAKr5-c"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.071,
+        "inputCost": "0.643588049999",
+        "outputCost": "0",
+        "totalCost": "0.643588049999",
+        "totalTokens": 13130,
+        "traceTags": [],
+        "createdAt": "2026-04-01T15:11:11.246Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "e4079eef-1fd8-4efd-a610-75692aed9c44",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.012,
+        "inputCost": "0.2464325",
+        "outputCost": "0",
+        "totalCost": "0.2464325",
+        "totalTokens": 4267,
+        "traceTags": [],
+        "createdAt": "2026-04-01T15:00:36.239Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "71439acd-af69-4942-b739-9929846534bc",
+        "userIds": [
+            "1bCTU2wpMXQu3_aFgZzBsMd67B1jhBc3Olp2lemjnRM"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.009,
+        "inputCost": "0.2494295",
+        "outputCost": "0",
+        "totalCost": "0.2494295",
+        "totalTokens": 4494,
+        "traceTags": [],
+        "createdAt": "2026-04-01T14:48:54.388Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "bc15de74-961e-4794-b0dc-4cf701d99a24",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.009,
+        "inputCost": "0.15249405",
+        "outputCost": "0",
+        "totalCost": "0.15249405",
+        "totalTokens": 4010,
+        "traceTags": [],
+        "createdAt": "2026-04-01T14:00:19.936Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "b77309d0-24f1-404b-ac5d-cb55627378ee",
+        "userIds": [
+            "-tNJUplOzxZtK_H4nhjYuNf6EH5fr8PpgNMAR80HX3c"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.039,
+        "inputCost": "0.2157785",
+        "outputCost": "0",
+        "totalCost": "0.2157785",
+        "totalTokens": 5262,
+        "traceTags": [],
+        "createdAt": "2026-04-01T13:54:59.912Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "622fd0c7-ee7d-44ec-93fa-03621be2f5b2",
+        "userIds": [
+            "-tNJUplOzxZtK_H4nhjYuNf6EH5fr8PpgNMAR80HX3c"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.025,
+        "inputCost": "0.30309895",
+        "outputCost": "0",
+        "totalCost": "0.30309895",
+        "totalTokens": 5815,
+        "traceTags": [],
+        "createdAt": "2026-04-01T13:53:57.483Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "f8140a6d-07f0-4edd-9b1e-addfb57f12a9",
+        "userIds": [
+            "1bCTU2wpMXQu3_aFgZzBsMd67B1jhBc3Olp2lemjnRM"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.028,
+        "inputCost": "0.2143029",
+        "outputCost": "0",
+        "totalCost": "0.2143029",
+        "totalTokens": 3040,
+        "traceTags": [],
+        "createdAt": "2026-04-01T12:51:39.857Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "4377829e-2114-4e35-a91f-105d92a7ee2e",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.163,
+        "inputCost": "0.612090099999",
+        "outputCost": "0",
+        "totalCost": "0.612090099999",
+        "totalTokens": 9941,
+        "traceTags": [],
+        "createdAt": "2026-04-01T11:47:13.217Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "3a5eb8bf-827b-46e3-8b1a-c08906087079",
+        "userIds": [
+            "1bCTU2wpMXQu3_aFgZzBsMd67B1jhBc3Olp2lemjnRM"
+        ],
+        "countTraces": 5,
+        "sessionDuration": 0.603,
+        "inputCost": "1.437144849992",
+        "outputCost": "0",
+        "totalCost": "1.437144849992",
+        "totalTokens": 17866,
+        "traceTags": [],
+        "createdAt": "2026-04-01T11:46:51.324Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 5,
+        "comments": []
+    },
+    {
+        "id": "e2438d21-7989-42d4-a46d-bd456ae154d9",
+        "userIds": [
+            "1bCTU2wpMXQu3_aFgZzBsMd67B1jhBc3Olp2lemjnRM"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.142,
+        "inputCost": "0",
+        "outputCost": "0",
+        "totalCost": "0",
+        "totalTokens": 0,
+        "traceTags": [],
+        "createdAt": "2026-04-01T11:38:50.419Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "37fe8f2a-15bf-4538-8e25-8c84fb82c122",
+        "userIds": [
+            "R5c5S9FgOV-Sqy5GnoSpZN2VnZT3VSwuQgLbJlwyM3U"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.218,
+        "inputCost": "0.342186",
+        "outputCost": "0",
+        "totalCost": "0.342186",
+        "totalTokens": 3077,
+        "traceTags": [],
+        "createdAt": "2026-03-31T16:11:04.062Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "398ec86d-32aa-460c-b6ba-2061bf59f3d9",
+        "userIds": [
+            "-tNJUplOzxZtK_H4nhjYuNf6EH5fr8PpgNMAR80HX3c"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.013,
+        "inputCost": "0.158661399999",
+        "outputCost": "0",
+        "totalCost": "0.158661399999",
+        "totalTokens": 1204,
+        "traceTags": [],
+        "createdAt": "2026-03-31T09:58:31.220Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "1abdc081-e013-436d-a45b-769637a98a95",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0.215,
+        "inputCost": "0.7600521",
+        "outputCost": "0",
+        "totalCost": "0.7600521",
+        "totalTokens": 9846,
+        "traceTags": [],
+        "createdAt": "2026-03-31T07:35:37.938Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "be764635-57e6-4223-9706-7e76d6b930f3",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0.237,
+        "inputCost": "1.30155755",
+        "outputCost": "0",
+        "totalCost": "1.30155755",
+        "totalTokens": 14636,
+        "traceTags": [],
+        "createdAt": "2026-03-30T19:03:04.336Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "79ddf689-2ae4-4f67-9541-91e3098cd260",
+        "userIds": [
+            "MGoeNQ4OYnLP2NcCtcEctS1un_-1eSVz3_IWcAKr5-c"
+        ],
+        "countTraces": 5,
+        "sessionDuration": 0.139,
+        "inputCost": "2.223492599995",
+        "outputCost": "0",
+        "totalCost": "2.223492599995",
+        "totalTokens": 33416,
+        "traceTags": [],
+        "createdAt": "2026-03-30T15:24:29.706Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 5,
+        "comments": []
+    },
+    {
+        "id": "bee3bd2c-d56e-4f26-8e2b-4fde0e46f651",
+        "userIds": [
+            "MGoeNQ4OYnLP2NcCtcEctS1un_-1eSVz3_IWcAKr5-c"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.254,
+        "inputCost": "1.406149199994",
+        "outputCost": "0",
+        "totalCost": "1.406149199994",
+        "totalTokens": 12617,
+        "traceTags": [],
+        "createdAt": "2026-03-30T15:05:30.740Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "cb46cad9-df69-499f-8829-613bbc0b8271",
+        "userIds": [
+            "R5c5S9FgOV-Sqy5GnoSpZN2VnZT3VSwuQgLbJlwyM3U"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.436,
+        "inputCost": "1.287458749998",
+        "outputCost": "0",
+        "totalCost": "1.287458749998",
+        "totalTokens": 38073,
+        "traceTags": [],
+        "createdAt": "2026-03-30T12:41:48.264Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "ad6e5fd1-0e45-4f9c-8fac-5950f2271a98",
+        "userIds": [
+            "R5c5S9FgOV-Sqy5GnoSpZN2VnZT3VSwuQgLbJlwyM3U"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.01,
+        "inputCost": "0.1978094",
+        "outputCost": "0",
+        "totalCost": "0.1978094",
+        "totalTokens": 1644,
+        "traceTags": [],
+        "createdAt": "2026-03-30T12:35:47.332Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "dc3e275d-323f-42e4-a629-837e7d842485",
+        "userIds": [
+            "R5c5S9FgOV-Sqy5GnoSpZN2VnZT3VSwuQgLbJlwyM3U"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.103,
+        "inputCost": "0.780394499997",
+        "outputCost": "0",
+        "totalCost": "0.780394499997",
+        "totalTokens": 8347,
+        "traceTags": [],
+        "createdAt": "2026-03-30T10:24:05.475Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "f064c167-d500-4cef-ad53-6b2fc61d885d",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.055,
+        "inputCost": "0.40217865",
+        "outputCost": "0",
+        "totalCost": "0.40217865",
+        "totalTokens": 3550,
+        "traceTags": [],
+        "createdAt": "2026-03-27T08:56:33.094Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "a70e6089-c85d-4d6f-9db7-4019fbc4e8a7",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0.533,
+        "inputCost": "2.21963505",
+        "outputCost": "0",
+        "totalCost": "2.21963505",
+        "totalTokens": 32157,
+        "traceTags": [],
+        "createdAt": "2026-03-26T18:28:05.762Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "1d1d69d1-b20b-42a4-b443-72ab452e1946",
+        "userIds": [
+            "d61212d4-10a1-708c-6375-6655d7a9b0a7"
+        ],
+        "countTraces": 6,
+        "sessionDuration": 0.695,
+        "inputCost": "1.37668065",
+        "outputCost": "0",
+        "totalCost": "1.37668065",
+        "totalTokens": 17563,
+        "traceTags": [],
+        "createdAt": "2026-03-26T09:40:54.571Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 6,
+        "comments": []
+    },
+    {
+        "id": "c6f0e104-caf1-4ad2-bc71-69eb8c0f9108",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 6,
+        "sessionDuration": 0.333,
+        "inputCost": "2.5545611",
+        "outputCost": "0",
+        "totalCost": "2.5545611",
+        "totalTokens": 39734,
+        "traceTags": [],
+        "createdAt": "2026-03-25T19:16:16.191Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 6,
+        "comments": []
+    },
+    {
+        "id": "09cc87ce-84b7-469c-acc1-02c27bd5a6fd",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.128,
+        "inputCost": "0.36257325",
+        "outputCost": "0",
+        "totalCost": "0.36257325",
+        "totalTokens": 6259,
+        "traceTags": [],
+        "createdAt": "2026-03-25T19:11:34.290Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "372eaaab-6a6f-4756-9fc3-7d2e47436a6d",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.005,
+        "inputCost": "0.1029721",
+        "outputCost": "0",
+        "totalCost": "0.1029721",
+        "totalTokens": 2155,
+        "traceTags": [],
+        "createdAt": "2026-03-25T19:08:43.078Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "643ecd3d-f8e1-4779-b7e7-de60541147b5",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.008,
+        "inputCost": "0.090817099999",
+        "outputCost": "0",
+        "totalCost": "0.090817099999",
+        "totalTokens": 1402,
+        "traceTags": [],
+        "createdAt": "2026-03-25T19:06:43.633Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "e6c00366-14b2-473f-82d2-562ae2d39da7",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.155,
+        "inputCost": "0.764251199997",
+        "outputCost": "0",
+        "totalCost": "0.764251199997",
+        "totalTokens": 9794,
+        "traceTags": [],
+        "createdAt": "2026-03-25T19:02:48.981Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "79a75ad0-5b29-454d-9632-a12931a89f96",
+        "userIds": [
+            "-tNJUplOzxZtK_H4nhjYuNf6EH5fr8PpgNMAR80HX3c"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.022,
+        "inputCost": "0.2173933",
+        "outputCost": "0",
+        "totalCost": "0.2173933",
+        "totalTokens": 2386,
+        "traceTags": [],
+        "createdAt": "2026-03-25T11:27:44.766Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "e7a3579e-f168-4afb-b0fc-b879e49da6ff",
+        "userIds": [
+            "d6e28244-7081-70f2-99aa-cffa3cb11c53"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.07,
+        "inputCost": "0.4037385",
+        "outputCost": "0",
+        "totalCost": "0.4037385",
+        "totalTokens": 2663,
+        "traceTags": [],
+        "createdAt": "2026-03-25T11:16:49.135Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "8d882aee-6179-4818-86b9-af03fdd0e43a",
+        "userIds": [
+            "-tNJUplOzxZtK_H4nhjYuNf6EH5fr8PpgNMAR80HX3c"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.005,
+        "inputCost": "0.1695574",
+        "outputCost": "0",
+        "totalCost": "0.1695574",
+        "totalTokens": 2485,
+        "traceTags": [],
+        "createdAt": "2026-03-25T10:29:22.926Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "19bdfe9e-f8b5-42c3-b828-f0157238d53c",
+        "userIds": [
+            "-tNJUplOzxZtK_H4nhjYuNf6EH5fr8PpgNMAR80HX3c"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.056,
+        "inputCost": "0.47669385",
+        "outputCost": "0",
+        "totalCost": "0.47669385",
+        "totalTokens": 4957,
+        "traceTags": [],
+        "createdAt": "2026-03-25T10:13:35.115Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "75bc5a0e-32ae-44eb-8ab4-a6823081d452",
+        "userIds": [
+            "d61212d4-10a1-708c-6375-6655d7a9b0a7"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.182,
+        "inputCost": "0.7187536",
+        "outputCost": "0",
+        "totalCost": "0.7187536",
+        "totalTokens": 9152,
+        "traceTags": [],
+        "createdAt": "2026-03-24T11:54:38.798Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "525f45a6-3689-4665-a541-ef6c576fff37",
+        "userIds": [
+            "d61212d4-10a1-708c-6375-6655d7a9b0a7"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.006,
+        "inputCost": "0.1528365",
+        "outputCost": "0",
+        "totalCost": "0.1528365",
+        "totalTokens": 1226,
+        "traceTags": [],
+        "createdAt": "2026-03-24T11:03:32.976Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "ee44a289-2137-423b-ac3c-590a628c5bd7",
+        "userIds": [
+            "grg0TEsxfdJrK-ZEmNMeO_vcGe8XhjiKatTTUcIVxw8"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.205,
+        "inputCost": "0.166278899998",
+        "outputCost": "0",
+        "totalCost": "0.166278899998",
+        "totalTokens": 3195,
+        "traceTags": [],
+        "createdAt": "2026-03-23T18:25:38.912Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "49e873db-7cbc-4da1-9b9a-819192ae6c8e",
+        "userIds": [
+            "d6822284-8081-70b3-2842-f7e776111c4e"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.004,
+        "inputCost": "0.11788745",
+        "outputCost": "0",
+        "totalCost": "0.11788745",
+        "totalTokens": 721,
+        "traceTags": [],
+        "createdAt": "2026-03-23T10:24:54.326Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "cd207f8b-b03a-4850-b2d5-3ab1c0f73901",
+        "userIds": [
+            "e6b22254-f001-70ff-8aac-091d36b58916"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.804,
+        "inputCost": "1.029718049998",
+        "outputCost": "0",
+        "totalCost": "1.029718049998",
+        "totalTokens": 9424,
+        "traceTags": [],
+        "createdAt": "2026-03-23T09:07:23.072Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "f633d5b3-d82d-44c4-a91e-55d34965283e",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 6,
+        "sessionDuration": 0.935,
+        "inputCost": "2.4410421",
+        "outputCost": "0",
+        "totalCost": "2.4410421",
+        "totalTokens": 55128,
+        "traceTags": [],
+        "createdAt": "2026-03-23T08:05:03.572Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 6,
+        "comments": []
+    },
+    {
+        "id": "6afa9b5e-b8d4-42c6-96cd-501efaf8fedc",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0.252,
+        "inputCost": "0.568417099998",
+        "outputCost": "0",
+        "totalCost": "0.568417099998",
+        "totalTokens": 15936,
+        "traceTags": [],
+        "createdAt": "2026-03-20T21:08:22.731Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "25ffd56e-5ed1-4dde-9f61-7d12af3c1474",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.029,
+        "inputCost": "0.1156651",
+        "outputCost": "0",
+        "totalCost": "0.1156651",
+        "totalTokens": 2048,
+        "traceTags": [],
+        "createdAt": "2026-03-20T21:06:38.646Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "c3e3b01f-d8b9-4dc6-a7d0-cf694234d586",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 6,
+        "sessionDuration": 0.477,
+        "inputCost": "1.9419182",
+        "outputCost": "0",
+        "totalCost": "1.9419182",
+        "totalTokens": 38479,
+        "traceTags": [],
+        "createdAt": "2026-03-20T20:51:56.075Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 6,
+        "comments": []
+    },
+    {
+        "id": "e82dc984-30bf-4c52-99e4-f5489d213770",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0.223,
+        "inputCost": "1.433762149999",
+        "outputCost": "0",
+        "totalCost": "1.433762149999",
+        "totalTokens": 26083,
+        "traceTags": [],
+        "createdAt": "2026-03-20T14:09:53.227Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "858b259b-b5c6-4225-8c63-220028b4f82e",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.024,
+        "inputCost": "0.26615385",
+        "outputCost": "0",
+        "totalCost": "0.26615385",
+        "totalTokens": 1703,
+        "traceTags": [],
+        "createdAt": "2026-03-20T14:08:31.008Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "ef4d4e70-7698-47b9-b485-6fc34ff44baf",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.569,
+        "inputCost": "0.533457899996",
+        "outputCost": "0",
+        "totalCost": "0.533457899996",
+        "totalTokens": 4154,
+        "traceTags": [],
+        "createdAt": "2026-03-20T13:45:15.450Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "e6dbe762-c9e6-4bc4-880a-8b931775b60d",
+        "userIds": [
+            "d6e28244-7081-70f2-99aa-cffa3cb11c53"
+        ],
+        "countTraces": 6,
+        "sessionDuration": 0.962,
+        "inputCost": "3.549751199998",
+        "outputCost": "0",
+        "totalCost": "3.549751199998",
+        "totalTokens": 55972,
+        "traceTags": [],
+        "createdAt": "2026-03-20T10:36:42.560Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 6,
+        "comments": []
+    },
+    {
+        "id": "79c1690f-0db5-415a-bf6f-4bcd7c177689",
+        "userIds": [
+            "d6e28244-7081-70f2-99aa-cffa3cb11c53"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.005,
+        "inputCost": "0.124579199999",
+        "outputCost": "0",
+        "totalCost": "0.124579199999",
+        "totalTokens": 996,
+        "traceTags": [],
+        "createdAt": "2026-03-20T10:31:06.152Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "69575854-690c-4f71-bb86-f9fde8bd76df",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.121,
+        "inputCost": "0.7221351",
+        "outputCost": "0",
+        "totalCost": "0.7221351",
+        "totalTokens": 10904,
+        "traceTags": [],
+        "createdAt": "2026-03-20T08:21:44.632Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "ec80ad47-b86a-4bc1-aa53-6e3569e841ac",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0.091,
+        "inputCost": "1.28291925",
+        "outputCost": "0",
+        "totalCost": "1.28291925",
+        "totalTokens": 21609,
+        "traceTags": [],
+        "createdAt": "2026-03-19T21:09:37.910Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "a06ca134-78f7-494c-b1d7-2f787828f9b1",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.039,
+        "inputCost": "0.604202249999",
+        "outputCost": "0",
+        "totalCost": "0.604202249999",
+        "totalTokens": 9083,
+        "traceTags": [],
+        "createdAt": "2026-03-19T21:06:58.068Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "01cc61b6-aba1-4afe-a8d3-c860553fb876",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 6,
+        "sessionDuration": 0.423,
+        "inputCost": "1.5408965",
+        "outputCost": "0",
+        "totalCost": "1.5408965",
+        "totalTokens": 16700,
+        "traceTags": [],
+        "createdAt": "2026-03-19T15:04:12.409Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 6,
+        "comments": []
+    },
+    {
+        "id": "a4466f1f-22c3-472f-afdf-db38dfa0834d",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.406,
+        "inputCost": "0.90620985",
+        "outputCost": "0",
+        "totalCost": "0.90620985",
+        "totalTokens": 12841,
+        "traceTags": [],
+        "createdAt": "2026-03-19T10:39:42.677Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "2bdf98fa-fe9b-48bf-8ee2-5054560b9bd3",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.211,
+        "inputCost": "0.64970515",
+        "outputCost": "0",
+        "totalCost": "0.64970515",
+        "totalTokens": 11219,
+        "traceTags": [],
+        "createdAt": "2026-03-19T10:28:52.860Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "f813624a-3de5-4449-8b7b-df7b5d110aeb",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.142,
+        "inputCost": "0.15818315",
+        "outputCost": "0",
+        "totalCost": "0.15818315",
+        "totalTokens": 3732,
+        "traceTags": [],
+        "createdAt": "2026-03-18T21:02:30.528Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "d600b2c8-1844-4198-b278-6359ba75a807",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.1,
+        "inputCost": "0.390804",
+        "outputCost": "0",
+        "totalCost": "0.390804",
+        "totalTokens": 7239,
+        "traceTags": [],
+        "createdAt": "2026-03-18T20:56:58.697Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "f3b80207-4b0e-4d64-b96f-89aa34cea2b0",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.067,
+        "inputCost": "0.29301505",
+        "outputCost": "0",
+        "totalCost": "0.29301505",
+        "totalTokens": 4829,
+        "traceTags": [],
+        "createdAt": "2026-03-18T20:47:00.195Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "d8b484fa-7be2-45d8-88ec-74b0327d0b2f",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.06,
+        "inputCost": "0.4539272",
+        "outputCost": "0",
+        "totalCost": "0.4539272",
+        "totalTokens": 4965,
+        "traceTags": [],
+        "createdAt": "2026-03-18T20:36:54.351Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "35242ff6-1ba6-418f-b569-b3fbaf731d45",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.328,
+        "inputCost": "1.2111027",
+        "outputCost": "0",
+        "totalCost": "1.2111027",
+        "totalTokens": 16773,
+        "traceTags": [],
+        "createdAt": "2026-03-18T20:22:59.463Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "ba7f0b05-06d6-4be5-980e-7d03d5adf764",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0.048,
+        "inputCost": "1.5600346",
+        "outputCost": "0",
+        "totalCost": "1.5600346",
+        "totalTokens": 22990,
+        "traceTags": [],
+        "createdAt": "2026-03-18T19:49:50.327Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "b9025c79-8a6f-4444-9e23-f4b6fd15d3cb",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.032,
+        "inputCost": "0.28280065",
+        "outputCost": "0",
+        "totalCost": "0.28280065",
+        "totalTokens": 4067,
+        "traceTags": [],
+        "createdAt": "2026-03-18T19:44:00.478Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "b1fa2dca-18cf-497a-b418-00743a7b1acb",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0,
+        "inputCost": "0.0253989",
+        "outputCost": "0",
+        "totalCost": "0.0253989",
+        "totalTokens": 119,
+        "traceTags": [],
+        "createdAt": "2026-03-18T13:53:30.377Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "2cfe4abe-a5e1-4d50-b028-54f8320987d5",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0,
+        "inputCost": "0",
+        "outputCost": "0",
+        "totalCost": "0",
+        "totalTokens": 0,
+        "traceTags": [],
+        "createdAt": "2026-03-18T13:11:53.738Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "ec8f0990-8ba3-441b-ba60-d93c74b5a94c",
+        "userIds": [
+            "d61212d4-10a1-708c-6375-6655d7a9b0a7"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.189,
+        "inputCost": "0.819052549999",
+        "outputCost": "0",
+        "totalCost": "0.819052549999",
+        "totalTokens": 8034,
+        "traceTags": [],
+        "createdAt": "2026-03-18T12:18:35.251Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "ae57ee05-34eb-4236-afb9-398f98d69b95",
+        "userIds": [
+            "e6b22254-f001-70ff-8aac-091d36b58916"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 1.245,
+        "inputCost": "2.88334935",
+        "outputCost": "0",
+        "totalCost": "2.88334935",
+        "totalTokens": 36832,
+        "traceTags": [],
+        "createdAt": "2026-03-18T11:29:55.722Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "249d60eb-9969-40dc-a69e-2c6ec592a1a7",
+        "userIds": [
+            "56920214-4021-7059-e00a-97a247953757"
+        ],
+        "countTraces": 5,
+        "sessionDuration": 0.348,
+        "inputCost": "1.549826249998",
+        "outputCost": "0",
+        "totalCost": "1.549826249998",
+        "totalTokens": 15865,
+        "traceTags": [],
+        "createdAt": "2026-03-18T11:15:37.273Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 5,
+        "comments": []
+    },
+    {
+        "id": "4bc64412-96ca-4c96-86e7-f4c182b83e86",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.021,
+        "inputCost": "0.227374299999",
+        "outputCost": "0",
+        "totalCost": "0.227374299999",
+        "totalTokens": 1892,
+        "traceTags": [],
+        "createdAt": "2026-03-18T10:59:51.260Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "7161675f-848a-486e-9025-32614555ceaa",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.075,
+        "inputCost": "0.4382338",
+        "outputCost": "0",
+        "totalCost": "0.4382338",
+        "totalTokens": 7317,
+        "traceTags": [],
+        "createdAt": "2026-03-17T19:12:56.516Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "b6c0347f-cd45-4901-aca7-6afd141cef0e",
+        "userIds": [
+            "d61212d4-10a1-708c-6375-6655d7a9b0a7"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0.181,
+        "inputCost": "1.071922599996",
+        "outputCost": "0",
+        "totalCost": "1.071922599996",
+        "totalTokens": 14579,
+        "traceTags": [],
+        "createdAt": "2026-03-17T16:03:04.322Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "fe0e9261-7f10-4bd6-86e8-216c6a559811",
+        "userIds": [
+            "56920214-4021-7059-e00a-97a247953757"
+        ],
+        "countTraces": 5,
+        "sessionDuration": 0.167,
+        "inputCost": "0.957984649997",
+        "outputCost": "0",
+        "totalCost": "0.957984649997",
+        "totalTokens": 13455,
+        "traceTags": [],
+        "createdAt": "2026-03-17T15:17:25.840Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 5,
+        "comments": []
+    },
+    {
+        "id": "e4f4c9ff-f276-4ce7-a590-154a2fc5a482",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.106,
+        "inputCost": "0.49368155",
+        "outputCost": "0",
+        "totalCost": "0.49368155",
+        "totalTokens": 8077,
+        "traceTags": [],
+        "createdAt": "2026-03-17T14:00:40.520Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "7b20b07b-9e76-48c2-9534-f06366c2eea5",
+        "userIds": [
+            "d61212d4-10a1-708c-6375-6655d7a9b0a7"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 103.77,
+        "inputCost": "0.80510485",
+        "outputCost": "0",
+        "totalCost": "0.80510485",
+        "totalTokens": 84299,
+        "traceTags": [],
+        "createdAt": "2026-03-17T10:52:41.429Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "c26e2093-b1b2-4dff-86d6-5b16795ad05b",
+        "userIds": [
+            "56920214-4021-7059-e00a-97a247953757"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.477,
+        "inputCost": "0.72003285",
+        "outputCost": "0",
+        "totalCost": "0.72003285",
+        "totalTokens": 17971,
+        "traceTags": [],
+        "createdAt": "2026-03-17T10:51:17.361Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "aa718afc-cf67-4cf3-a839-e9d8f3fdcf86",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.249,
+        "inputCost": "0.536849499999",
+        "outputCost": "0",
+        "totalCost": "0.536849499999",
+        "totalTokens": 10119,
+        "traceTags": [],
+        "createdAt": "2026-03-17T10:43:58.328Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "e9055597-9e29-4090-88a8-6fa217c96a9e",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.027,
+        "inputCost": "0.240237099999",
+        "outputCost": "0",
+        "totalCost": "0.240237099999",
+        "totalTokens": 3448,
+        "traceTags": [],
+        "createdAt": "2026-03-17T10:14:19.850Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "f40c27c1-ae74-492c-aedf-f5a49d5072cd",
+        "userIds": [
+            "d61212d4-10a1-708c-6375-6655d7a9b0a7"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.049,
+        "inputCost": "0.212555349999",
+        "outputCost": "0",
+        "totalCost": "0.212555349999",
+        "totalTokens": 2853,
+        "traceTags": [],
+        "createdAt": "2026-03-16T15:46:25.453Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "78e83011-d1f0-4b10-bb43-04aece71f015",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.006,
+        "inputCost": "0.0523079",
+        "outputCost": "0",
+        "totalCost": "0.0523079",
+        "totalTokens": 675,
+        "traceTags": [],
+        "createdAt": "2026-03-16T11:39:53.408Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "76574ebd-8af6-431d-9247-63180e0d506e",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 9.886,
+        "inputCost": "0.3478114",
+        "outputCost": "0",
+        "totalCost": "0.3478114",
+        "totalTokens": 5135,
+        "traceTags": [],
+        "createdAt": "2026-03-16T08:12:49.211Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "663c5e22-10ee-4e8f-b14d-2045218f76c2",
+        "userIds": [
+            "d6e28244-7081-70f2-99aa-cffa3cb11c53"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.003,
+        "inputCost": "0.119585899999",
+        "outputCost": "0",
+        "totalCost": "0.119585899999",
+        "totalTokens": 804,
+        "traceTags": [],
+        "createdAt": "2026-03-13T15:47:09.967Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "a0570913-9819-468b-983e-49630b33614b",
+        "userIds": [
+            "d61212d4-10a1-708c-6375-6655d7a9b0a7"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.253,
+        "inputCost": "0.8338311",
+        "outputCost": "0",
+        "totalCost": "0.8338311",
+        "totalTokens": 7361,
+        "traceTags": [],
+        "createdAt": "2026-03-13T14:25:39.250Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "ff6fd017-9a5e-4379-b9a1-04144622b3ae",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.092,
+        "inputCost": "0.5805143",
+        "outputCost": "0",
+        "totalCost": "0.5805143",
+        "totalTokens": 7385,
+        "traceTags": [],
+        "createdAt": "2026-03-13T12:54:47.055Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "007dad77-258b-4323-b158-3afc540f6609",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.048,
+        "inputCost": "0.2457081",
+        "outputCost": "0",
+        "totalCost": "0.2457081",
+        "totalTokens": 3345,
+        "traceTags": [],
+        "createdAt": "2026-03-13T08:45:14.987Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "c35426b9-6392-4820-8ada-d6f44243d375",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.033,
+        "inputCost": "0.30472785",
+        "outputCost": "0",
+        "totalCost": "0.30472785",
+        "totalTokens": 2950,
+        "traceTags": [],
+        "createdAt": "2026-03-12T20:32:56.354Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "7b3bb1f4-3de8-4639-ac4a-ea1765d3a8b3",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0,
+        "inputCost": "0.063431149999",
+        "outputCost": "0",
+        "totalCost": "0.063431149999",
+        "totalTokens": 1145,
+        "traceTags": [],
+        "createdAt": "2026-03-12T20:14:02.663Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "bd2597cb-096b-4c80-84ad-d9f175b080f4",
+        "userIds": [
+            "d61212d4-10a1-708c-6375-6655d7a9b0a7"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0.31,
+        "inputCost": "0.7628617",
+        "outputCost": "0",
+        "totalCost": "0.7628617",
+        "totalTokens": 8601,
+        "traceTags": [],
+        "createdAt": "2026-03-12T11:18:59.396Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "70c8322b-31d8-4e30-9ec7-4e6ad06372fc",
+        "userIds": [
+            "d61212d4-10a1-708c-6375-6655d7a9b0a7"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0.545,
+        "inputCost": "2.050307049999",
+        "outputCost": "0",
+        "totalCost": "2.050307049999",
+        "totalTokens": 26254,
+        "traceTags": [],
+        "createdAt": "2026-03-12T11:02:37.543Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "3a90db22-1b70-4bd4-a474-88b1ab60462c",
+        "userIds": [
+            "d6822284-8081-70b3-2842-f7e776111c4e"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.719,
+        "inputCost": "1.08944835",
+        "outputCost": "0",
+        "totalCost": "1.08944835",
+        "totalTokens": 16686,
+        "traceTags": [],
+        "createdAt": "2026-03-12T09:43:48.956Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "6920ddf8-d140-4e86-9524-15358475a4c7",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0,
+        "inputCost": "0.1493598",
+        "outputCost": "0",
+        "totalCost": "0.1493598",
+        "totalTokens": 794,
+        "traceTags": [],
+        "createdAt": "2026-03-11T20:22:54.116Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "0935b6d3-aa45-47c2-915b-b48b4735d6ac",
+        "userIds": [
+            "d61212d4-10a1-708c-6375-6655d7a9b0a7"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.657,
+        "inputCost": "1.45493625",
+        "outputCost": "0",
+        "totalCost": "1.45493625",
+        "totalTokens": 16277,
+        "traceTags": [],
+        "createdAt": "2026-03-11T16:55:11.703Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "1e3bd128-ec90-485b-86bc-b1922d792668",
+        "userIds": [
+            "d6e28244-7081-70f2-99aa-cffa3cb11c53"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.063,
+        "inputCost": "0.5039881",
+        "outputCost": "0",
+        "totalCost": "0.5039881",
+        "totalTokens": 5817,
+        "traceTags": [],
+        "createdAt": "2026-03-11T16:34:35.091Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "6443403b-5070-43c5-95a1-e0579ba31d5a",
+        "userIds": [
+            "d6822284-8081-70b3-2842-f7e776111c4e"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.043,
+        "inputCost": "0.2877688",
+        "outputCost": "0",
+        "totalCost": "0.2877688",
+        "totalTokens": 4263,
+        "traceTags": [],
+        "createdAt": "2026-03-11T15:52:29.248Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "5e4f1973-8ec2-4f81-919f-b4a955f05b2f",
+        "userIds": [
+            "d6822284-8081-70b3-2842-f7e776111c4e"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.002,
+        "inputCost": "0.0560932",
+        "outputCost": "0",
+        "totalCost": "0.0560932",
+        "totalTokens": 785,
+        "traceTags": [],
+        "createdAt": "2026-03-11T15:51:21.770Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "b3b45e4f-7449-416e-957d-342fe9544a28",
+        "userIds": [
+            "f6b20204-4021-705c-27dc-2f6bb47e1b65"
+        ],
+        "countTraces": 4,
+        "sessionDuration": 0.343,
+        "inputCost": "1.32057195",
+        "outputCost": "0",
+        "totalCost": "1.32057195",
+        "totalTokens": 20085,
+        "traceTags": [],
+        "createdAt": "2026-03-11T15:12:25.379Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 4,
+        "comments": []
+    },
+    {
+        "id": "04c0e0b9-fc6d-43ba-84b4-83d97175c2cf",
+        "userIds": [
+            "f6b20204-4021-705c-27dc-2f6bb47e1b65"
+        ],
+        "countTraces": 7,
+        "sessionDuration": 1.19,
+        "inputCost": "2.684041049997",
+        "outputCost": "0",
+        "totalCost": "2.684041049997",
+        "totalTokens": 25136,
+        "traceTags": [],
+        "createdAt": "2026-03-11T14:08:15.029Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 7,
+        "comments": []
+    },
+    {
+        "id": "a7a6dd9f-5c7a-4105-893d-7d99fc44e2ff",
+        "userIds": [
+            "d6e28244-7081-70f2-99aa-cffa3cb11c53"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.013,
+        "inputCost": "0.0801474",
+        "outputCost": "0",
+        "totalCost": "0.0801474",
+        "totalTokens": 1627,
+        "traceTags": [],
+        "createdAt": "2026-03-11T13:40:05.771Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "55b384e2-08d6-467c-a695-f67c322b9760",
+        "userIds": [
+            "d6e28244-7081-70f2-99aa-cffa3cb11c53"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.112,
+        "inputCost": "0.554194049997",
+        "outputCost": "0",
+        "totalCost": "0.554194049997",
+        "totalTokens": 6999,
+        "traceTags": [],
+        "createdAt": "2026-03-11T13:35:21.901Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "d86f86fb-9c59-4919-8722-a298036b3774",
+        "userIds": [
+            "d6e28244-7081-70f2-99aa-cffa3cb11c53"
+        ],
+        "countTraces": 6,
+        "sessionDuration": 0.656,
+        "inputCost": "1.056000899999",
+        "outputCost": "0",
+        "totalCost": "1.056000899999",
+        "totalTokens": 19942,
+        "traceTags": [],
+        "createdAt": "2026-03-11T13:22:31.748Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 6,
+        "comments": []
+    },
+    {
+        "id": "63fb8a6f-285d-4a5a-b79f-8a7fc4bdc731",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.096,
+        "inputCost": "0.42379935",
+        "outputCost": "0",
+        "totalCost": "0.42379935",
+        "totalTokens": 4579,
+        "traceTags": [],
+        "createdAt": "2026-03-11T13:21:52.576Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "ccd65c3c-ba41-4825-b6af-ae6fca137cc9",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.003,
+        "inputCost": "0.113459849999",
+        "outputCost": "0",
+        "totalCost": "0.113459849999",
+        "totalTokens": 786,
+        "traceTags": [],
+        "createdAt": "2026-03-11T10:59:24.986Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "c28f5b04-ac4a-4731-9a0e-2b02b1a60f09",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.085,
+        "inputCost": "0.208769999999",
+        "outputCost": "0",
+        "totalCost": "0.208769999999",
+        "totalTokens": 3484,
+        "traceTags": [],
+        "createdAt": "2026-03-11T08:47:48.933Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "66bedbf0-2fc2-4577-825b-6d7c5c1e03d3",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.081,
+        "inputCost": "0.200354849998",
+        "outputCost": "0",
+        "totalCost": "0.200354849998",
+        "totalTokens": 4534,
+        "traceTags": [],
+        "createdAt": "2026-03-11T08:25:00.617Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "1dfb22e4-9916-4093-abe7-88930e5beb45",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.048,
+        "inputCost": "0.04640585",
+        "outputCost": "0",
+        "totalCost": "0.04640585",
+        "totalTokens": 498,
+        "traceTags": [],
+        "createdAt": "2026-03-11T08:22:50.002Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "f833a89f-7788-454c-b4ce-433ec055592c",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0,
+        "inputCost": "0.0523719",
+        "outputCost": "0",
+        "totalCost": "0.0523719",
+        "totalTokens": 301,
+        "traceTags": [],
+        "createdAt": "2026-03-10T19:03:56.898Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "5ecd0b43-1419-4695-8926-ed881d4d2f40",
+        "userIds": [
+            "56f2d2f4-e0b1-701c-b8d8-c04c8d0c5d48"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0,
+        "inputCost": "0.0961054",
+        "outputCost": "0",
+        "totalCost": "0.0961054",
+        "totalTokens": 444,
+        "traceTags": [],
+        "createdAt": "2026-03-10T15:10:20.093Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "786e8cf0-10e6-4bcb-a682-d07cb0f084f7",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.251,
+        "inputCost": "0.687432349999",
+        "outputCost": "0",
+        "totalCost": "0.687432349999",
+        "totalTokens": 10771,
+        "traceTags": [],
+        "createdAt": "2026-03-10T10:08:36.748Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "d022a96a-b1ce-41f4-be5b-5655c8da6135",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.003,
+        "inputCost": "0.036288949999",
+        "outputCost": "0",
+        "totalCost": "0.036288949999",
+        "totalTokens": 660,
+        "traceTags": [],
+        "createdAt": "2026-03-10T10:07:18.845Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "b2da8b3b-8627-4a81-8f01-1f0165b5de53",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.011,
+        "inputCost": "0.1519841",
+        "outputCost": "0",
+        "totalCost": "0.1519841",
+        "totalTokens": 1346,
+        "traceTags": [],
+        "createdAt": "2026-03-10T10:06:33.810Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "407d9092-fd55-4b85-ba03-327448a4aa2b",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.003,
+        "inputCost": "0.10395845",
+        "outputCost": "0",
+        "totalCost": "0.10395845",
+        "totalTokens": 753,
+        "traceTags": [],
+        "createdAt": "2026-03-10T09:46:58.811Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "637766a0-3f5b-44a0-aac0-2145d1d462f4",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.004,
+        "inputCost": "0.114883299999",
+        "outputCost": "0",
+        "totalCost": "0.114883299999",
+        "totalTokens": 658,
+        "traceTags": [],
+        "createdAt": "2026-03-10T09:42:19.490Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "4b862ec9-743c-44c1-a7d4-c9a325508b23",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.003,
+        "inputCost": "0.11556895",
+        "outputCost": "0",
+        "totalCost": "0.11556895",
+        "totalTokens": 675,
+        "traceTags": [],
+        "createdAt": "2026-03-09T16:06:11.516Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "a1b0cc8f-3fa4-4886-b21f-6a83c2b8b77c",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.208,
+        "inputCost": "0.498233249998",
+        "outputCost": "0",
+        "totalCost": "0.498233249998",
+        "totalTokens": 7048,
+        "traceTags": [],
+        "createdAt": "2026-03-09T14:47:05.276Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "c72b7228-d97e-4d9a-b502-8b6668cfb963",
+        "userIds": [
+            "d6e28244-7081-70f2-99aa-cffa3cb11c53"
+        ],
+        "countTraces": 10,
+        "sessionDuration": 0.79,
+        "inputCost": "1.508706749997",
+        "outputCost": "0",
+        "totalCost": "1.508706749997",
+        "totalTokens": 17082,
+        "traceTags": [],
+        "createdAt": "2026-03-09T14:09:43.200Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 10,
+        "comments": []
+    },
+    {
+        "id": "6f4b9d60-0076-44ee-8594-d6e85a6ceffa",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.029,
+        "inputCost": "0.2763145",
+        "outputCost": "0",
+        "totalCost": "0.2763145",
+        "totalTokens": 2649,
+        "traceTags": [],
+        "createdAt": "2026-03-09T12:59:50.030Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "96628caa-2b85-422f-8105-dd493d71e1ac",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.023,
+        "inputCost": "0.168248699999",
+        "outputCost": "0",
+        "totalCost": "0.168248699999",
+        "totalTokens": 3432,
+        "traceTags": [],
+        "createdAt": "2026-03-07T17:15:51.066Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "1161fbf7-04b9-4fa0-b686-e0ae61bfc633",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.061,
+        "inputCost": "0.436517049998",
+        "outputCost": "0",
+        "totalCost": "0.436517049998",
+        "totalTokens": 3683,
+        "traceTags": [],
+        "createdAt": "2026-03-07T16:43:36.882Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "0f1048c1-efdb-47d0-94d5-56a0ab25533b",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 0.084,
+        "inputCost": "0.428991",
+        "outputCost": "0",
+        "totalCost": "0.428991",
+        "totalTokens": 6005,
+        "traceTags": [],
+        "createdAt": "2026-03-07T16:12:20.435Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "d3591a1b-62d7-44b4-b30c-de3726b3f70a",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.005,
+        "inputCost": "0.119356999999",
+        "outputCost": "0",
+        "totalCost": "0.119356999999",
+        "totalTokens": 815,
+        "traceTags": [],
+        "createdAt": "2026-03-06T17:04:33.177Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "b629045d-2e6e-4eeb-9cff-0880654ca53f",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.055,
+        "inputCost": "0.3049544",
+        "outputCost": "0",
+        "totalCost": "0.3049544",
+        "totalTokens": 5454,
+        "traceTags": [],
+        "createdAt": "2026-03-06T15:52:29.146Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "b55cf381-3c6b-4336-8e30-de4b8d259a63",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.064,
+        "inputCost": "0.3950418",
+        "outputCost": "0",
+        "totalCost": "0.3950418",
+        "totalTokens": 5131,
+        "traceTags": [],
+        "createdAt": "2026-03-06T15:21:11.462Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "7639e142-cffb-429f-9cc0-49b5d18a5977",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.061,
+        "inputCost": "0.195624749998",
+        "outputCost": "0",
+        "totalCost": "0.195624749998",
+        "totalTokens": 1639,
+        "traceTags": [],
+        "createdAt": "2026-03-06T10:22:24.088Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "b65cea62-dc2f-4dbd-927d-0c1eabb459b5",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.018,
+        "inputCost": "0.0783283",
+        "outputCost": "0",
+        "totalCost": "0.0783283",
+        "totalTokens": 1444,
+        "traceTags": [],
+        "createdAt": "2026-03-05T17:01:03.560Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "217107d7-c2dc-4cc8-a0e6-b2973c1470d1",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.013,
+        "inputCost": "0.064220499999",
+        "outputCost": "0",
+        "totalCost": "0.064220499999",
+        "totalTokens": 1220,
+        "traceTags": [],
+        "createdAt": "2026-03-05T17:00:02.478Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "7a93c792-9049-4fc2-b716-63e7579008ba",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.013,
+        "inputCost": "0.1364923",
+        "outputCost": "0",
+        "totalCost": "0.1364923",
+        "totalTokens": 1369,
+        "traceTags": [],
+        "createdAt": "2026-03-05T16:57:08.804Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "fe8f216b-a497-4b33-ae4b-2c4e80f63b45",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 3,
+        "sessionDuration": 2.513,
+        "inputCost": "2.2008204",
+        "outputCost": "0",
+        "totalCost": "2.2008204",
+        "totalTokens": 24923,
+        "traceTags": [],
+        "createdAt": "2026-03-05T16:16:42.861Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 3,
+        "comments": []
+    },
+    {
+        "id": "8a393268-f25b-4e31-86e4-212b1c4551de",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.05,
+        "inputCost": "0.2712453",
+        "outputCost": "0",
+        "totalCost": "0.2712453",
+        "totalTokens": 4813,
+        "traceTags": [],
+        "createdAt": "2026-03-05T16:03:06.369Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "ac0153fd-5260-4008-8f75-7962c8da17c2",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.065,
+        "inputCost": "0.360557149998",
+        "outputCost": "0",
+        "totalCost": "0.360557149998",
+        "totalTokens": 7593,
+        "traceTags": [],
+        "createdAt": "2026-03-05T15:56:47.647Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "7b3514a2-642b-46e4-9d64-f6be86cb61b9",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.003,
+        "inputCost": "0.0444133",
+        "outputCost": "0",
+        "totalCost": "0.0444133",
+        "totalTokens": 755,
+        "traceTags": [],
+        "createdAt": "2026-03-05T15:55:24.615Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "59403e80-1a1c-489e-af16-438cf4b7a8d1",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.008,
+        "inputCost": "0.0485444",
+        "outputCost": "0",
+        "totalCost": "0.0485444",
+        "totalTokens": 1006,
+        "traceTags": [],
+        "createdAt": "2026-03-05T15:54:40.089Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "6d594e15-fc85-4767-8df0-87de176ffbeb",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.077,
+        "inputCost": "0.391700199999",
+        "outputCost": "0",
+        "totalCost": "0.391700199999",
+        "totalTokens": 5426,
+        "traceTags": [],
+        "createdAt": "2026-03-05T15:50:37.068Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "342628e2-4918-40fc-bb3a-05ca8cc0dd35",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0.036,
+        "inputCost": "0",
+        "outputCost": "0",
+        "totalCost": "0",
+        "totalTokens": 0,
+        "traceTags": [],
+        "createdAt": "2026-03-05T15:18:01.263Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "1e18a8bb-9c21-45d8-942c-59920648f5bc",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.029,
+        "inputCost": "0.2587135",
+        "outputCost": "0",
+        "totalCost": "0.2587135",
+        "totalTokens": 1815,
+        "traceTags": [],
+        "createdAt": "2026-03-05T15:13:58.963Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "460b8661-5532-4b06-86a8-d67468567804",
+        "userIds": [
+            "061222e4-a011-70dc-e65d-8d10867a829e"
+        ],
+        "countTraces": 5,
+        "sessionDuration": 0.011,
+        "inputCost": "0.2891653",
+        "outputCost": "0",
+        "totalCost": "0.2891653",
+        "totalTokens": 2286,
+        "traceTags": [],
+        "createdAt": "2026-03-05T13:54:48.781Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 5,
+        "comments": []
+    },
+    {
+        "id": "11946ae7-9989-449d-ac50-f03d96b8dc08",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 6,
+        "sessionDuration": 0.206,
+        "inputCost": "0.8399825",
+        "outputCost": "0",
+        "totalCost": "0.8399825",
+        "totalTokens": 10490,
+        "traceTags": [],
+        "createdAt": "2026-03-05T12:33:04.296Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 6,
+        "comments": []
+    },
+    {
+        "id": "02219a28-0c72-4678-955c-0782df00c404",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 1,
+        "sessionDuration": 0,
+        "inputCost": "0.026607749999",
+        "outputCost": "0",
+        "totalCost": "0.026607749999",
+        "totalTokens": 256,
+        "traceTags": [],
+        "createdAt": "2026-03-02T12:54:27.897Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 1,
+        "comments": []
+    },
+    {
+        "id": "63dd8551-533c-4f3b-b31d-d31472d1c2de",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.027,
+        "inputCost": "0.217815349998",
+        "outputCost": "0",
+        "totalCost": "0.217815349998",
+        "totalTokens": 1326,
+        "traceTags": [],
+        "createdAt": "2026-03-02T09:20:05.920Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    },
+    {
+        "id": "9fc3934e-afa8-4732-ba1e-ee0f8d181ba5",
+        "userIds": [
+            "2662a2b4-a091-7024-cab0-85f2502e6293"
+        ],
+        "countTraces": 2,
+        "sessionDuration": 0.148,
+        "inputCost": "0.17644385",
+        "outputCost": "0",
+        "totalCost": "0.17644385",
+        "totalTokens": 1212,
+        "traceTags": [],
+        "createdAt": "2026-03-01T17:18:19.077Z",
+        "bookmarked": false,
+        "public": false,
+        "totalCount": 2,
+        "comments": []
+    }
+]
