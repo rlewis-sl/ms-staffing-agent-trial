@@ -98,6 +98,23 @@ First, create a new Topic for "Staff Availability"...
 - Enter a Connection name ("Activity Assignment SOQL query")
 
 TOTALLY WINGING IT FROM HERE, AND USING THE USER AUTH TOKEN EXTRACTED BY manage-sf-session.sh - which could be completely wrong.
+(NOTE: That was completely wrong.)
+
+Try running a "Test" of the new Flow
+- Open the "Designer" panel of the "Get Activity Assignment report data" flow
+- Click the "Test" icon in the top menu bar
+- (Something happened here where I was asked to "publish and test" or something like that)
+- The "Test Flow" side panel opens on the right
+- Choose "Manually" and click "Test" button at the bottom of the side panel
+- Go to the Flows page (select from the left vertical menu bar)
+- Select "Get Activity Assignment report data" flow
+- Select the "run" for the test in the 28-day run history on the Overview panel
+- Error reported in the "Queries - SOQL Query" node: "Unauthorized"
+- Click the node to show details
+- Under "Outputs" the Body has field message = "Access denied due to invalid subscription key. Make sure to provide a valid key for an active subscription."
+
+MS documentation: https://learn.microsoft.com/en-ca/connectors/apptigentcloudtools/
+
 
 
 
