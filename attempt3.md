@@ -1,0 +1,36 @@
+# Notes on setting up "staffing agent attempt 3"
+
+- Create a new agent in the "Staffing Agent (Test)" solution
+  - Open Microsoft Copilot Studio
+  - Select the "Agents" icon in the left vertical menu bar
+  - Click the "+ Create blank agent" button near the top right of the page
+  - Enter the name "staffing agent attempt 3" in the dialog that appears
+  - Open the "Agent settings (Optional)" dropdown on the dialog
+  - Set Language = "English (United Kingdom)"
+  - Set Solution - "Staffing Agent (TEST)" - the default
+  - Set Schema name = "sax_attempt3"
+  - Click the "Create" button
+- The Copilot Studio page for the new agent is displayed (Overview panel)
+- Selected model is GPT-5 Chat by default (leave it for now)
+- Changed "Enable your agent to search all public websites." to Disabled (under "Knowledge")
+- has four "Custom" topics by default: Goodbye, Greeting, Start Over and Thank you
+- Click "Settings" button near top right of page
+- "Generative AI" panel is shown
+  - Uses "generative AI orchestration" by default
+  - User Feedback is turned On by default (thumbs-up or thumbs-down with an optional comment)
+  - Under Knowledge, turned off "Allow ungrounded responses"
+  - Under File processing capabilities, turned off "File uploads"
+  - Under File processing capabilities, turned on "Code interpreter"
+  - "Turn on Work IQ" is turned On by default (not sure but leaving on)
+  - Click "Save" button at bottom of page
+- Add knowledge sources for the exported Kimble reports
+  - Follow instructions in Staffing Agent README.md (https://github.com/ScottLogic/staffing-agent/blob/main/README.md) for exporting CSV reports from Kimble.
+  - Upload the exported CSV files to the designated SharePoint folder (https://scottlogic.sharepoint.com/:f:/r/sites/StaffingAgent/Shared%20Documents/General/AGENT%20FILES/TEST)
+  - Create a Knowledge source for the designated SharePoint folder
+    - Click "+ Add knowledge" button
+    - Enter the URL of the designated SharePoint folder
+    - Click the "Add" button
+    - Change the Name to "Structured Staffing Data"
+    - Change the Description to "This knowledge source provides access to structured staffing data."
+    - Click "Add to agent" button
+    
