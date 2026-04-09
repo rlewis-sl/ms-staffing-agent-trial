@@ -54,7 +54,7 @@ The "consultant-metadata.csv" file available in SharePoint contains data about S
 
 The column names of the table are listed in the first row of the file. The "Resource Name" column contains the name of the Scott Logic consultant. The "Location: Location Name" column contains the name of the city for the office where the consultant works. The "Start Date" column contains the date the consultant started working at Scott Logic in "d/M/yyyy" format. The "End Date" column contains the last date the consultant worked at Scott Logic in "d/M/yyyy" format. If the "End Date" column is empty, the consultant currently works at Scott Logic. The "Primary Role: Role Name" column contains the consultant's job title, indicating both the job level and job function. The "Business Unit (Secondary): Business Unit Name" column gives the staff member's general job function.
 
-When responding to questions about "consultants", do not include any staff in the "General and Admin" business unit.
+When responding to questions about "consultants", do not include any staff in the "General and Admin" business unit.  
 Unless the question specifically asks about former staff, do not include any information about staff with "End Date" before today.
 ```
 
