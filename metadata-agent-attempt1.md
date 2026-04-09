@@ -60,9 +60,17 @@ Unless the question specifically asks about former staff, do not include any inf
 
 Although the agent could answer some questions about staff metadata, it was generally poor and it was not able to "find" the CSV file to use it with a Python script.
 
+## Try exporting data in .XLSX format
 
-This youtube video suggests I should use a "prompt" tool to get the agent to write and run python code: https://www.youtube.com/watch?v=dTenCgI-r4Y&t=229s
+- Export Staff Metadata report from Kimble again, but this time in .xlsx format
+- Upload consultant-metadata.xlsx to the designated SharePoint folder (https://scottlogic.sharepoint.com/:f:/r/sites/StaffingAgent/Shared%20Documents/General/AGENT%20FILES/TEST/STAFF%20METADATA) [we already created a Knowledge item referencing this folder]
 
-... and maybe referencing data in the "Dataverse"?
+TEST AGAIN
 
-Maybe this one too: https://www.youtube.com/watch?v=5NBgKvMfx_o
+Getting the response "Please upload the file consultant-metadata.csv so I can filter the consultants in the Glasgow office who are developers."
+
+Changed the agent Instructions to reference "consultant-metadata.xlsx", instead of the CSV version.
+
+Didn't work. Same response.
+
+Also tried changing the model to GPT-5 Reasoning. When I did that the agent stopped trying to use code interpreter, and gave answers that were as bad as ever.
