@@ -16,9 +16,13 @@
 - Click the "Edit" button in the Details box
   - Set the Description to "Extracts information about Scott Logic consultants and staff from data in Dataverse (from an uploaded CSV file). Information available includes the name, job title, business unit, job function, seniority level, office location, start date and end date for all Scott Logic employees."
   - Click "Save" button for Details
-- Selected model is Claude Sonnet 4.6 by default (leave it for now)
+- Change the selected model to Claude Opus 4.7. (Selected model is Claude Sonnet 4.6 by default.)
 - Changed "Enable your agent to search all public websites." to Disabled (under "Knowledge")
 - Has four "Custom" topics by default: Goodbye, Greeting, Start Over and Thank you. (Click "See all" under Topics to see them all.)
+  - Click "See All" to go to the Topics tab
+  - Click "System" to show the 9 System topics
+  - Turn the Escalate topic "Off"
+- Add an Agent Flow tool ("Today") to return today's date (no inputs; output: today=formatDateTime(utcNow(), 'dd MMMM yyyy'))
 - Click "Settings" button near top right of page
 - "Generative AI" panel is shown
   - Uses "generative AI orchestration" by default
@@ -53,9 +57,11 @@
 ```
 Use information in the Consultant Metadata table in Dataverse to answer questions about Scott Logic staff. Information available includes the person's name, the city where the consultant works, their start date and end date, their job title and job function.
 
+Interpret dates in Consultant Metadata as being in "dd/MM/yyyy" format.
+
 When responding to questions about "consultants", do not include any staff in the "General and Admin" business unit. Unless the question specifically asks about former staff, do not include any information about staff with "End Date" before today.
 
-Today is {Text(Today(), "dd mmmm yyyy")}.
+Always use the Today tool to get today's date.
 ```
   - Click the "Save" button on the Instructions box
 
@@ -79,3 +85,28 @@ Try adding this to the Knowledge description (after the other comment about End 
 ```
  If the "End Date" column contains a value, the consultant no longer works at Scott Logic.
  ```
+
+This helps, but there are still some problems.
+
+Also tried switching to Claude Opus 4.5 and Claude Opus 4.7. The Agent continued to include people who have left Scott Logic (i.e. who have an employment EndDate before today).
+
+### Trying to get the agent to understand today's date
+
+User Prompt: "What is today's date?"
+Response: "No information was found that could help answer this."
+
+But the System Prompt (Agent "Instructions" includes the date in a macro... "Today is {Text(Today(), "dd mmmm yyyy")}.")
+
+Tried addding a specific Tool which returns the current date and adding to the system prompt "Get today's date from the Today tool."
+Same result.
+
+I COULD get the agent to tell me today's date with this prompt: "Use the Today tool to get today's date."
+But it then failed on the follow-up question "Who are the Lead Developers in Glasgow?" - answer was "No data was found matching the criteria of Lead Developers currently working in Glasgow in the Consultant Metadata table."
+
+Further testing with the Today tool added and a system prompt with instructions to use it gave better results.
+Q: "Who are the Lead Developers in Glasgow?"
+A: [correctly listed the 6 Lead Developers currently in the Glasgow office - and sometimes mentioned Nigel Percival as a former employee]
+
+# Conclusion
+
+After many false starts attempting to improve the responses, it has continued to be very difficult to get the agent to understand (1) how to determine today's date, (2) to exclude consultants with end dates in the past from responses to general queries about staff, and (3) to interpret dates in the Consultant Metadata table as being in "dd/MM/yyyy" format.
